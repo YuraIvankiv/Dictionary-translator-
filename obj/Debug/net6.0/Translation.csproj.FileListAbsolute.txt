@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Translation\Translation\Translation\bin\Debug\net6.0\Translation.exe
+C:\Users\Admin\Desktop\Translation\Translation\Translation\bin\Debug\net6.0\Translation.deps.json
+C:\Users\Admin\Desktop\Translation\Translation\Translation\bin\Debug\net6.0\Translation.runtimeconfig.json
+C:\Users\Admin\Desktop\Translation\Translation\Translation\bin\Debug\net6.0\Translation.dll
+C:\Users\Admin\Desktop\Translation\Translation\Translation\bin\Debug\net6.0\Translation.pdb
+C:\Users\Admin\Desktop\Translation\Translation\Translation\obj\Debug\net6.0\Translation.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Translation\Translation\Translation\obj\Debug\net6.0\Translation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Translation\Translation\Translation\obj\Debug\net6.0\Translation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Translation\Translation\Translation\obj\Debug\net6.0\Translation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Translation\Translation\Translation\obj\Debug\net6.0\Translation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Translation\Translation\Translation\obj\Debug\net6.0\Translation.dll
+C:\Users\Admin\Desktop\Translation\Translation\Translation\obj\Debug\net6.0\refint\Translation.dll
+C:\Users\Admin\Desktop\Translation\Translation\Translation\obj\Debug\net6.0\Translation.pdb
+C:\Users\Admin\Desktop\Translation\Translation\Translation\obj\Debug\net6.0\Translation.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Translation\Translation\Translation\obj\Debug\net6.0\ref\Translation.dll
